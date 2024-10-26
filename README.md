@@ -1,11 +1,10 @@
 <h1>Hi, I'm Joshua
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active directory home lab</b>
+- [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
+  
 
 
--->
+
+
