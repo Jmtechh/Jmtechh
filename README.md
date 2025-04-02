@@ -3,6 +3,9 @@
 
 - [Active directory home lab](https://github.com/Jmtechh/ActiveDirectoryLab/tree/main)
 - [How to map a network drive](https://github.com/Jmtechh/How-to-map-a-network-drive)
+- [Manually adding a virtual machine to a domain](https://github.com/Jmtechh/Manually-adding-a-virtual-machine-to-a-domain)
+  
+  
 
   
 
