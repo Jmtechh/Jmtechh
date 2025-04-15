@@ -6,7 +6,7 @@
 - [Manually adding a virtual machine to a domain](https://github.com/Jmtechh/Manually-adding-a-virtual-machine-to-a-domain)
 - [Installing RSAT tools on a local device](https://github.com/Jmtechh/Installing-RSAT-tools-on-a-local-device)
 - [Resetting a users password](https://github.com/Jmtechh/Resetting-Password)
-- [Unlocking a users account](https://github.com/Jmtechh/Unlocking-a-users-account/blob/main/README.md)
+- [Unlocking a users account](https://github.com/Jmtechh/Unlocking-a-users-account)
   
   
 
