@@ -7,6 +7,7 @@
 - [Installing RSAT tools on a local device](https://github.com/Jmtechh/Installing-RSAT-tools-on-a-local-device)
 - [Resetting a users password](https://github.com/Jmtechh/Resetting-Password)
 - [Unlocking a users account](https://github.com/Jmtechh/Unlocking-a-users-account)
+- [Resetting-the-local-administrator-password](https://github.com/Jmtechh/Resetting-the-local-administrator-password)
   
   
 
